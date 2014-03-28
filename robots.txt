@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+Disallow: /home_8/
+Sitemap: http://www.furniture-coupons.com/sitemap.xml 
